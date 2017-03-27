@@ -1,0 +1,42 @@
+body{
+	background: url(../imgs/mountain.jpg)no-repeat;
+	background-size: 100%;
+}
+
+h1{
+	color: #fff;
+}
+
+label{
+	color: #fff;
+}
+
+table{
+	background-color: #fff;
+	border-radius: 5px;
+}
+
+span.glyphicon-trash{
+	background-color: red;
+	border-radius: 5px;
+	color: #fff;
+	padding: 10px;
+}
+
+span.glyphicon-pencil{
+	background-color: #01295A;
+	border-radius: 5px;
+	color: #fff;
+	padding: 10px;
+}
+
+span.glyphicon-search{
+	background-color: #01295A;
+	border-radius: 5px;
+	color: #fff;
+	padding: 10px;
+}
+
+li{
+	color: #fff;
+}
